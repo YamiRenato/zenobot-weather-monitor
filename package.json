@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Node.js module that consults the weather information of a city and sends it on the Telegram",
   "main": "src/app.js",
-  "author": "YamiRenato",
+  "author": "Renato Gonçalves <renatog.gonalves9@gmail.com>",
   "license": "MIT",
   "private": false,
   "dependencies": {
