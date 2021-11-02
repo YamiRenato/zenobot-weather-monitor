@@ -1,0 +1,14 @@
+node_modules
+build
+coverage
+.vscode
+.DS_STORE
+.env
+logs
+tmp
+yarn.lock
+
+# managed
+**.data.json
+**.node-persist**
+# end managed
