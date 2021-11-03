@@ -1,6 +1,6 @@
 {
   "name": "zenobot-weather-monitor",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Node.js module that consults the weather information of a city and sends it on the Telegram",
   "main": "src/app.js",
   "author": "Renato Gonçalves <renatog.gonalves9@gmail.com>",
