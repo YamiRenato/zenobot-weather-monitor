@@ -1,6 +1,5 @@
 require("dotenv/config");
 
-const { Telegraf } = require("telegraf");
 const bot = require("./app/services/Bot");
 
 const token = process.env.BOT_TOKEN;
