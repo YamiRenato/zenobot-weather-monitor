@@ -1,0 +1,7 @@
+{
+  "welcome": "🤖 Olá, tudo bem? Me chamo Zeno.\n \nEu posso consultar a previsão do tempo para qualquer Cidade do Brasil que você quiser.\n \nSegue a lista de comandos disponíveis nomento:\n \n<b>/start</b>: Inicia uma nova solicitação de previsão do tempo.",
+  "start": "\n \n🤖 Eu me chamo Zeno, é um prazer interagir com você 🤗\n \nDigite o nome de sua Cidade e o Estado para receber a previsão do tempo 😎\n \nExemplo: Presidente Prudente,São Paulo.",
+  "start_again": "🤖 Certo, pode digitar o nome da Cidade e o Estado que eu te informo a previsão do tempo 😜",
+  "return": "🤖 É um prezer revele-lo 🤗\n \nPode digitar o nome de sua Cidade e o Estado que eu lhe informo a previsão do tempo atualizada 😉\n \nExemplo: Presidente Prudente,São Paulo.",
+  "invalid_name": "Ops! Parece que essa cidade não existe rsrs 🙈\n \nPoderia conferir se está tudo certo? 🤨 \n \nLembrando que preciso que digite no seguinte formato:\n \n👉 Presidente Prudente,São Paulo."
+}
